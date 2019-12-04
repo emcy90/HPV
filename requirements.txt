@@ -1,7 +1,1 @@
-ecdsa==0.13
-esptool==2.6
-pip==19.0.3
-pyaes==1.6.1
-pyserial==3.4
-setuptools==40.8.0
 names>=0.30  # For testing purposes
